@@ -3,7 +3,7 @@
 PDA Machine Formal Language Training Project
 
 
-# DPDA for Language L =
+# DPDA for Language L
 
 This repository contains the implementation of a Deterministic Pushdown Automaton (DPDA) for the language \( L = \{a^n b^m \mid n > m\} \). The DPDA is implemented in C++ and includes a simple command-line interface for testing input strings.
 
@@ -36,7 +36,7 @@ The language \( L = \{a^n b^m \mid n > m\} \) consists of strings with more `a`'
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/dpda-language-anbm.git
+   git clone https://github.com/am1383/dpda-language-anbm.git
    ```
 
 ### Example
